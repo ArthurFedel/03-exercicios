@@ -1,5 +1,6 @@
 package exercicio03;
 
+// Commit com o exercicio03 finalizado!
 public class Professor {
     String nome;
     int totalDeAulas;
